@@ -1,4 +1,4 @@
-#Environmental Pollution
+# Environmental Pollution
 
 Map with world environmental pollution. Project uses Next.js, React.js, Typescript, Leaflet, MongoDB and Styles Components
 
